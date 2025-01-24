@@ -17,5 +17,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&show_icons=true&theme=midnight-purple&hide_border=true&locale=en&layout=compact" alt="marvaleri" /></p>
 
 #
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&theme=midnight-purple&show_icons=true&hide_border=true&locale=en" alt="marvaleri" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true&locale=en" alt="marvaleri" /></p>
 
