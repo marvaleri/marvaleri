@@ -1,5 +1,3 @@
-
-#
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -15,6 +13,8 @@
 </div>
 <br>
 
+
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 #
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="marvaleri" /></p>
