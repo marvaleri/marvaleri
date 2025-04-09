@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&show_icons=true&theme=midnight-purple&count_private=false&hide_border=true&locale=en&layout=compact" alt="marvaleri" /></p>
+
 
 #
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="marvaleri" /></p>
