@@ -15,8 +15,7 @@
 </div>
 <br>
 
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=9c4f96" />
 
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=false&bg_color=0D1117&title_color=9c4f96&icon_color=9c4f96" alt="marvaleri" /></p>
 
-#
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="marvaleri" /></p>
