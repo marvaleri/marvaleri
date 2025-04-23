@@ -9,13 +9,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 <br>
 
-<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=9c4f96" />
+<p align="center">&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&title_color=9c4f96" />
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=false&bg_color=0D1117&title_color=9c4f96&icon_color=9c4f96" alt="marvaleri" /></p>
-
