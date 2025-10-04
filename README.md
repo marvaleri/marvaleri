@@ -25,7 +25,7 @@
 
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=9c4f96" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=9c4f96&hide=rust" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=falsee&bg_color=0D1117&title_color=9c4f96&icon_color=9c4f96" alt="marvaleri"/>
 </div>
