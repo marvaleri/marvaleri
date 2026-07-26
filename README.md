@@ -25,14 +25,11 @@
 
 <br>
 <div align="center">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=9c4f96&hide=rust"/>
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&title_color=9c4f96&icon_color=9c4f96"/>
   &nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marvaleri&show_icons=true&locale=en&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=falsee&bg_color=0D1117&title_color=9c4f96&icon_color=9c4f96"/>
+  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=marvaleri&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=9c4f96&icon_color=9c4f96"/>
 </div>
 <br>
-
-<h2></h2>
-<h3 align="center">Look at These 👇</h3>
 
 <br>
 <div align="center">
